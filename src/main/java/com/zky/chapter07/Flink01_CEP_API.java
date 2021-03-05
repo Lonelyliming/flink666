@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * @Author Dawn
  * @Date 2021/3/5 16:33
- * @Desc
+ * @Desc cep 条件匹配，条件语句 where 、or
  */
 public class Flink01_CEP_API {
     public static void main(String[] args) throws Exception {
